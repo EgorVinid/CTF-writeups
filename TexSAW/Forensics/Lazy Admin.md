@@ -1,4 +1,4 @@
 # Description
 Find the hidden flag in the packet capture.
 # Attachments
-NetworkCapture.pcapng
+[Файл NetworkCapture.pcapng](./sources/NetworkCapture.pcapng)
