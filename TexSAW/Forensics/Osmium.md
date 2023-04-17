@@ -1,4 +1,4 @@
-# Image Extraction
+# Osmium
 - Solves - 45
 - Points - 100
 #
