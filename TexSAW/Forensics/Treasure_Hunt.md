@@ -13,8 +13,8 @@ Open (crack) each chest to find cards (passwords) that may help you.
 Happy clashing! 
 
 # Attachments
-[Файл SilverChest.jpg](./sources/SilverChest.jpg)
-[Файл GoldenChest.jpg](./sources/GoldenChest.jpg)
-[Файл MagicalChest.jpg](./sources/MagicalChest.jpg)
+[Файл SilverChest.jpg](./sources/SilverChest.jpg)<br>
+[Файл GoldenChest.jpg](./sources/GoldenChest.jpg)<br>
+[Файл MagicalChest.jpg](./sources/MagicalChest.jpg)<br>
 # Solution
 Решение
