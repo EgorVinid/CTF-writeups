@@ -7,6 +7,6 @@ Uncover a jpg file from the given file. The flag is in that image.<br>
 HINT: Look at the hex!
 
 # Attachments
-[Файл NetworkCapture.pcapng](./sources/NetworkCapture.pcapng)
+[Файл Challenge.pdf](./sources/Challenge.pdf)
 # Solution
 Решение
