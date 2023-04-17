@@ -1,6 +1,6 @@
 # Matryoshka
-- Solves - 56
-- Points - 250
+- Solves - 14
+- Points - 400
 #
 # Description
 You have been given a zip file containing an image of a Matryoshka doll. 
@@ -13,4 +13,4 @@ Use your security skills and knowledge to open all the dolls!
 [Файл doll1.zip](./sources/doll1.zip)
 
 # Solution
-Решение
+Не решили
