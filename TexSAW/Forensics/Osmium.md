@@ -1,3 +1,7 @@
+# Image Extraction
+- Solves - 45
+- Points - 100
+#
 # Description
 Hey I've gotten this rock, but I don't know what I can get out of it. 
 It's pretty heavy, and apparently it's made out of Osmium, I was told. See if you can extract anything out of it for me.<br>
