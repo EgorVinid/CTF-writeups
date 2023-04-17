@@ -1,1 +1,1 @@
-![Forensics](./sources/forensic.png)
+![Forensics](./sources/forensics.png)
