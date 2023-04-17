@@ -1,6 +1,6 @@
-# Treasure Hunt
-- Solves - 41
-- Points - 150
+# Ghost in the Clipboard
+- Solves - 56
+- Points - 250
 #
 # Description
 A hacker has broken into your computer and stolen one of your passwords. 
