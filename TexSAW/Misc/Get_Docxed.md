@@ -3,11 +3,11 @@
 - Points - 150
 #
 # Description
-Can you believe Britney Spears released her iconic album "Oops!... I did it Again" all the way back in 2000? Feels just like yesterday. What other whacky hijinks were the youth up to back in the day?
+My professor hid the answers to the final exam somewhere in this 2305_Syllabus_Spring2018.docx file. Can you find it?
 
-You'll need to surround the final message with the flag format to submit: texsaw{message}
+Hint: Careful letting Word recover the contents of the document, it may delete the flag. If you think that happened to you, just re-download the file from here again.
 
 # Attachments
-[Файл audio.wav](./sources/audio.wav)
+[Файл 2305_Syllabus_Spring2018.docx](./sources/2305_Syllabus_Spring2018.docx)
 # Solution
 Решение
