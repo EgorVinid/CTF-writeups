@@ -7,6 +7,6 @@ Johnny accidentally pushed his Azure client credentials to the GitHub repository
 
 
 # Attachments
-[Ссылка на таск](./https://github.com/johnnyjohnny6324/Mystery-App)
+[Ссылка на таск](https://github.com/johnnyjohnny6324/Mystery-App)
 # Solution
 Решение
