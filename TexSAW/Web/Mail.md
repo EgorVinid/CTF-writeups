@@ -10,4 +10,5 @@ http://18.216.238.24:2020/
 # Attachments
 
 # Solution
-Решение
+
+Change method from GET to POST and get your flag 
