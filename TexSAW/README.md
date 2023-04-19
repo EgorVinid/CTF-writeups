@@ -4,6 +4,6 @@
 - [Forenscics](./Forensics/README.md)
 - [Misc]()
 - [Cryptography]()
-- [RE/PWN](./RE\\PWN/README.md)
+- [RE/PWN](./RE_PWN/README.md)
 - [Web]()
 - [OSINT]()
