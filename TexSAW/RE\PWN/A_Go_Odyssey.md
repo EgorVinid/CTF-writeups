@@ -8,4 +8,4 @@ You are given a go binary. Find the flag! But beware, Go is not the same as C.
 # Attachments
 [Файл задания](./sources/odyssey)
 # Solution
-Решение
+just disassemble the file and you will get a flag in one of the functions
