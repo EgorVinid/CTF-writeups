@@ -12,4 +12,7 @@ You had clipboard history turned on in windows at the time of the attack. Perhap
 # Attachments
 -----
 # Solution
-Решение
+We are given an Appdata folder with some information inside and a prompt tells us the history of the keyboard.
+Actually, I hardly solved the task the way I needed to, because I only ran this command in the terminal and got a flag.
+
+`grep 'texsaw{' -r .`
