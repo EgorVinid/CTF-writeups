@@ -7,6 +7,6 @@ I've made my first website but I still have a lot of tasks to do. Can you check 
 
 http://18.216.238.24:1002/
 # Attachments
-ДОБАВИТЬ - m1 m2 m3 m4 public и bin
+
 # Solution
-Решение
+Add `.git/` to the url and then find the link to gitlab in the files. There will be a flag.txt file in that repository.
