@@ -10,4 +10,4 @@ nc 18.216.238.24 1500
 # Attachments
 [Файл shop](./sources/shop)
 # Solution
-Решение
+By disassembling the binary, we see a large number of mathematical expressions whose result is compared with the value entered by the user. Just rewrite the code in any language you like (it may not work, better use C or C++) and enter the resulting value to take our flag
