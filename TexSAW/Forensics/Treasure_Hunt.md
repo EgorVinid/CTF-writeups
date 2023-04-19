@@ -17,4 +17,4 @@ Happy clashing!
 [Файл GoldenChest.jpg](./sources/GoldenChest.jpg)<br>
 [Файл MagicalChest.jpg](./sources/MagicalChest.jpg)<br>
 # Solution
-Решение
+Three pictures with chests are given. The first thing to do is to look through strings on the first picture. We'll get a password of some kind. Then we run the steghide utility with the obtained password and take out the txt file with the base64 string from the picture. After decoding we'll get the password for the second picture. We do the same with the third picture and get our flag.
