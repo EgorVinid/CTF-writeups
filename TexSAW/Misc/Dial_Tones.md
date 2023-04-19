@@ -10,7 +10,7 @@ You'll need to surround the final message with the flag format to submit: texsaw
 # Attachments
 [Файл audio.wav](./sources/audio.wav)
 # Solution
-In General, this was one of the most interesting and original tascas, the admins thank you.
+In General, this was one of the most interesting and original tasc, the admins thank you.
 
 We are given an audio file, and after listening to it, we understand that it is the sound of typing on a push-button phone.
 
