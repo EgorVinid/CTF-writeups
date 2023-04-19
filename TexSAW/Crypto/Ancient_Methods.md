@@ -8,4 +8,4 @@ I have encrypted an article using a substitution cipher. Can you break it and fi
 # Attachments
 [Файл substitution.txt](./sources/substitution.txt)
 # Solution
-Решение
+Standard substitution cipher that can be solved using the method of [frequency analysis](https://www.dcode.fr/frequency-analysis)
