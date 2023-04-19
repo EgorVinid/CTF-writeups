@@ -8,6 +8,6 @@ I have published all of my RSA messages m^x = m mod N where N = pq. They are in 
 By the way the flag can be decrypted: rsa_cipher = PKCS1_OAEP.new(key) and then rsa_cipher.decrypt(<flag>) using PyCryptoDome (You can use whatever you want though).
 
 # Attachments
-[Файл substitution.txt](./sources/fractal.zip)
+[Файл fractal.zip](./sources/fractal.zip)
 # Solution
 Не решили
