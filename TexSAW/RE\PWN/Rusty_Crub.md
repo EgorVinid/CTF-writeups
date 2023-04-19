@@ -8,4 +8,8 @@ You are given a rust binary. Give the proper key to obtain the flag! But beware,
 # Attachments
 [Файл crab](./sources/crab)
 # Solution
-Решение
+A lyrical digression. I hate to reverse Rust.
+
+I don't know how we had to figure out what we were getting in the disassembler, I just used grep on the keyword and got a base64 string, which turned out to be a flag.
+
+Note: always run the binary through strings and grep. This might help to solve the task quickly.
