@@ -10,4 +10,4 @@ Note: You are required to run Elfie in a Linux environment.
 # Attachments
 [Файл elfie](./sources/elfie)
 # Solution
-Решение
+Open the file in Hex-editor and simply change the signature bytes to match the Linux executable, run the corrected binary and get our flag.
