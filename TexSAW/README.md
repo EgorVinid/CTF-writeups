@@ -2,8 +2,8 @@
 ![Место команды](./sources/place.png)
 # Categories:
 - [Forenscics](./Forensics/README.md)
-- [Misc]()
-- [Cryptography]()
+- [Misc](./Misc/README.md)
+- [Cryptography](./Crypto/README.md)
 - [RE/PWN](./RE\\PWN/README.md)
-- [Web]()
-- [OSINT]()
+- [Web](./Web/README.md)
+- [OSINT](./OSINT//README.md)
