@@ -10,4 +10,5 @@ http://18.216.238.24:1003/
 # Attachments
 
 # Solution
-Решение
+
+Just change the url to http://18.216.238.24:1003/webpage/files/ and get your flag.
