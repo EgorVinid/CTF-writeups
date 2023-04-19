@@ -14,4 +14,4 @@ Note: The flag will be the date that the artist created their YouTube channel. T
 # Attachments
 [Файл sculpture.jpg](./sources/sculpture.jpg)
 # Solution
-Решение
+just load the picture into a Google, get the name of the sculptor and search by that name on youtube. In the information about the channel there is the date of creation.
